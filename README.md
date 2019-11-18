@@ -1,4 +1,4 @@
-# Lab-Ironskydive (Prework exercise)
+# Prework exercise
 
 Ironskydive web page with HTML & CSS
 
